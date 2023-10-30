@@ -1,7 +1,8 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQHiH1JhDWfcTA/profile-displaybackgroundimage-shrink_350_1400/0/1677956407099?e=1704326400&v=beta&t=A4a37S3BvHXRL0vYpqR2-c-EO3hPZq2EXVBNsk0-uH4)
 # 💫 About Me:
 Ex-webdeveloper @ Immensphere<br>Passionately i'm a mern stack developer<br>Photographer<br>4 ⭐java coder @ hackerrank
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 
 ## 🌐 Socials:
