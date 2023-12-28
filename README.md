@@ -1,4 +1,12 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQHiH1JhDWfcTA/profile-displaybackgroundimage-shrink_350_1400/0/1677956407099?e=1704326400&v=beta&t=A4a37S3BvHXRL0vYpqR2-c-EO3hPZq2EXVBNsk0-uH4)
+
+[![Badge 1](https://learn.microsoft.com/en-us/training/achievements/describe-cloud-compute.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PinakiSankarRay-6532/WAQU5MBN?sharingId=72064B6A3F59C15C)
+[![Badge 2](https://learn.microsoft.com/en-us/training/achievements/describe-benefits-use-cloud-services.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PinakiSankarRay-6532/7EJY3P6Z?sharingId=72064B6A3F59C15C)
+[![Badge 3](https://learn.microsoft.com/en-us/training/achievements/describe-cloud-service-types.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PinakiSankarRay-6532/ZPTR8VZ2?sharingId=72064B6A3F59C15C)
+[![Badge 4](https://learn.microsoft.com/en-us/training/achievements/azure-app-introduction.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PinakiSankarRay-6532/HYMW46P8?sharingId=72064B6A3F59C15C)
+[![Badge 5](https://learn.microsoft.com/en-us/training/achievements/design-a-bot-conversation-flow.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PinakiSankarRay-6532/7EJY3P6Z?sharingId=72064B6A3F59C15C)
+
+
 # 💫 About Me:
 Hi 👋👋👋 , This is Pinaki Sankar Ray , dedicated and results-driven Computer Science student with a strong technical background and a 4-star rating on HackerRank. Seeking a full stack Software developer 
 position to leverage my expertise in Java programming, software development, web devepment and problem-solving skills to contribute to the development of large-scale distributed applications and support innovative payment solutions.
