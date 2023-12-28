@@ -1,11 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQHiH1JhDWfcTA/profile-displaybackgroundimage-shrink_350_1400/0/1677956407099?e=1704326400&v=beta&t=A4a37S3BvHXRL0vYpqR2-c-EO3hPZq2EXVBNsk0-uH4)
 
-[![Badge 1](https://learn.microsoft.com/en-us/training/achievements/describe-cloud-compute.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PinakiSankarRay-6532/WAQU5MBN?sharingId=72064B6A3F59C15C)
-[![Badge 2](https://learn.microsoft.com/en-us/training/achievements/describe-benefits-use-cloud-services.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PinakiSankarRay-6532/7EJY3P6Z?sharingId=72064B6A3F59C15C)
-[![Badge 3](https://learn.microsoft.com/en-us/training/achievements/describe-cloud-service-types.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PinakiSankarRay-6532/ZPTR8VZ2?sharingId=72064B6A3F59C15C)
-[![Badge 4](https://learn.microsoft.com/en-us/training/achievements/azure-app-introduction.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PinakiSankarRay-6532/HYMW46P8?sharingId=72064B6A3F59C15C)
-[![Badge 5](https://learn.microsoft.com/en-us/training/achievements/design-a-bot-conversation-flow.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PinakiSankarRay-6532/7EJY3P6Z?sharingId=72064B6A3F59C15C)
-
 
 # 💫 About Me:
 Hi 👋👋👋 , This is Pinaki Sankar Ray , dedicated and results-driven Computer Science student with a strong technical background and a 4-star rating on HackerRank. Seeking a full stack Software developer 
@@ -14,7 +8,13 @@ position to leverage my expertise in Java programming, software development, web
 🏭Ex-webdeveloper @ Immensphere<br>🎯Passionately i'm a mern stack developer<br>📸Photographer<br>4 ⭐java coder @ hackerrank
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966">
 
-
+## 📛 Badges: 
+### Microsoft Azure: 
+[![Badge 1](https://learn.microsoft.com/en-us/training/achievements/describe-cloud-compute.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PinakiSankarRay-6532/WAQU5MBN?sharingId=72064B6A3F59C15C)&emsp;&emsp;&emsp;&emsp;
+[![Badge 2](https://learn.microsoft.com/en-us/training/achievements/describe-benefits-use-cloud-services.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PinakiSankarRay-6532/7EJY3P6Z?sharingId=72064B6A3F59C15C)&emsp;&emsp;&emsp;&emsp;
+[![Badge 3](https://learn.microsoft.com/en-us/training/achievements/describe-cloud-service-types.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PinakiSankarRay-6532/ZPTR8VZ2?sharingId=72064B6A3F59C15C)&emsp;&emsp;&emsp;&emsp;
+[![Badge 4](https://learn.microsoft.com/en-us/training/achievements/azure-app-introduction.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PinakiSankarRay-6532/HYMW46P8?sharingId=72064B6A3F59C15C)&emsp;&emsp;&emsp;&emsp;
+[![Badge 5](https://learn.microsoft.com/en-us/training/achievements/design-a-bot-conversation-flow.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PinakiSankarRay-6532/7EJY3P6Z?sharingId=72064B6A3F59C15C)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_rohan_ray_15/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pinaki-sankar-ray-9b6530222/) 
