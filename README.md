@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQHiH1JhDWfcTA/profile-displaybackgroundimage-shrink_350_1400/0/1677956407099?e=1704326400&v=beta&t=A4a37S3BvHXRL0vYpqR2-c-EO3hPZq2EXVBNsk0-uH4)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQHiH1JhDWfcTA/profile-displaybackgroundimage-shrink_350_1400/0/1677956408671?e=1709769600&v=beta&t=XDX8yDgVnV2Ep3ySIa2q9sf210rq_zl1P9Jbd7b-bsg)
 
 
 # 💫 About Me:
